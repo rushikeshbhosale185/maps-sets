@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: aqua;
+}
+
+h1{
+    color: violet;
+    text-align: center;
+}
+
+h3{
+    border-radius: 12px;
+    border: 2px solid red;
+    color: chartreuse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h3:hover{
+    cursor: pointer;
+    margin: 10px;
+    background-color: white;
+    color: blue;
+}
+
